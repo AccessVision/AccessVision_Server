@@ -22,7 +22,7 @@ class UpdatePlateData(BaseModel):
     status: str
 
 DB_USER = "root"
-DB_PASSWORD = "HG103961h"
+DB_PASSWORD = ""
 DB_HOST = "localhost"
 DB_PORT = 3306
 DB_NAME = "license_plate_db"
